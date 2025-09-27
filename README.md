@@ -1,6 +1,6 @@
 # Medical AI Projects (practice)
 
-## **1. Autism Spectrum Disorder: Classification **
+## **1. Autism Spectrum Disorder: Classification**
 * Dataset
     * Format: NIFTI
     * Datasize: 2000 patients
